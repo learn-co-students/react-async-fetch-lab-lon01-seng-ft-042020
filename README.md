@@ -1,7 +1,4 @@
 
-
-- Practice creating a React component that utilizes `fetch` to display content
-
 ## Deliverables
 
 This lab is missing the App component that `index.js` is looking for. To pass
