@@ -14,6 +14,4 @@ the tests in this lab:
   http://api.open-notify.org/astros.json, a free API that returns a list of people
   currently in space.
 
-**Note:** This lab uses some packages that need a relatively new version of
-node. If you've got [nvm][https://github.com/creationix/nvm], run
-`nvm install node` to update.
+
